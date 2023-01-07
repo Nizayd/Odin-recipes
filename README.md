@@ -1,2 +1,2 @@
 This project is about Thunder recipes.
-On complettion of this project, I would have gained demonstrated my beginner knowhow of html.
+On completion of this project, I would have learnt how to create a webpage with just html, adding images and links to other pages.
